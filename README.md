@@ -1,2 +1,2 @@
 # Music-Player
-## Checkout the app at https://nehamalik4680.github.io/Music-Player/
+## Checkout the app at the link in the description.
